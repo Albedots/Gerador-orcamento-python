@@ -28,11 +28,7 @@ Caso necessário, você poderá trocar o template para outro de sua escolha, por
 
 * Troque as coordenadas dos elementos pela coordenada desejada, onde o primeiro valor é x e o segundo é y:
 >pdf.text(115, 145, projeto)
-
->pdf.text(115, 160, horas_estimadas)
-
->pdf.text(115, 175, valor_hora)
-
->pdf.text(115, 190, prazo)
-
->pdf.text(115, 205, str(valor_total))
+<br>pdf.text(115, 160, horas_estimadas)
+<br>pdf.text(115, 175, valor_hora)
+<br>pdf.text(115, 190, prazo)
+<br>pdf.text(115, 205, str(valor_total))
